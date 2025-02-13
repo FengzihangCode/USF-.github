@@ -4,7 +4,7 @@ Language: 简体中文｜<a href="./README_en.md">English</a>
 # USF - 通用课程表格式
 USF（Universal Schedule Format）是一种高效的课程表数据格式，旨在高效精简、功能通用，目前该项目依旧处于开发状态。
 
-## 目前已支持
+## 已支持
 <img src="https://skillicons.dev/icons?i=ts,py,swift,cs" />
 JSON 自动补全｜TypeScript｜Python｜Swift｜C#
 
