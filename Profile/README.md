@@ -8,7 +8,7 @@ USF（Universal Schedule Format）是一种高效的课程表数据格式，旨�
 JSON 自动补全｜TypeScript｜Python｜Swift｜C#
 
 ## 计划支持
-<img src="https://skillicons.dev/icons?i=c,cpp,java,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php,dart" />
 C｜C++｜Java｜PHP
 
 ## 贡献
