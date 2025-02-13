@@ -9,7 +9,7 @@ JSON 自动补全｜TypeScript｜Python｜Swift｜C#
 
 ## 计划支持
 <img src="https://skillicons.dev/icons?i=c,cpp,java,php,dart" />
-C｜C++｜Java｜PHP
+C｜C++｜Java｜PHP｜Dart
 
 ## 贡献
 你可以通过指出项目中的缺陷、报告问题、参与开发、整理文稿等方式参与到 USF 的项目中。
