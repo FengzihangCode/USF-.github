@@ -3,7 +3,7 @@ USF（Universal Schedule Format）是一种高效的课程表数据格式，旨�
 
 ## 目前已支持
 <img src="https://skillicons.dev/icons?i=ts,py,swift,cs" />
-JSON 自动补全｜[TypeScript](https://github.com/USF-org/USF-TS/issues/new)
+JSON 自动补全｜TypeScript｜Python｜Swift｜C#
 
 ## 计划/正在开发的 Access Framework
 <img src="https://skillicons.dev/icons?i=c,cpp,java,php" />
