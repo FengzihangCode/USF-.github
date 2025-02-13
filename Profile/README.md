@@ -1,5 +1,7 @@
+![USF Avatar](https://github.com/user-attachments/assets/563db63c-954f-4d47-839e-c475d88ab7fc)
+
 # USF - 通用课程表格式
-USF（Universal Schedule Format）是一种高效的课程表数据格式，旨在高效精简的同时又支持课程名称、教师、教室、时间段和单双周规则的使用，目前该项目依旧处于开发状态
+USF（Universal Schedule Format）是一种高效的课程表数据格式，旨在高效精简的同时又支持课程名称、教师、教室、时间段和单双周规则的使用，目前该项目依旧处于开发状态。
 
 ## 目前已支持
 <img src="https://skillicons.dev/icons?i=ts,py,swift,cs" />
