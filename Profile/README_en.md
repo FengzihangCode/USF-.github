@@ -1,19 +1,19 @@
 <image src="https://github.com/user-attachments/assets/563db63c-954f-4d47-839e-c475d88ab7fc" height="128"/>
-Language: <a href="./README.md">简体中文</a>｜简体中文
+Language: <a href="./README.md">简体中文</a>｜English
 
-# USF - 通用课程表格式
-USF（Universal Schedule Format）是一种高效的课程表数据格式，旨在高效精简、功能通用，目前该项目依旧处于开发状态。
+# USF - Universal Schedule Format
+USF (Universal Schedule Format) is an efficient curriculum data format, which aims to streamline efficiently and have universal functions. At present, the project is still under development.
 
-## 已支持
+## Supported
 <img src="https://skillicons.dev/icons?i=ts,py,swift,cs" />
-JSON 自动补全｜TypeScript｜Python｜Swift｜C#
+JSON Autocomplete｜TypeScript｜Python｜Swift｜C#
 
-## 计划支持
+## Plan to Support
 <img src="https://skillicons.dev/icons?i=c,cpp,java,php,dart" />
 C｜C++｜Java｜PHP｜Dart
 
-## 贡献
-你可以通过指出项目中的缺陷、报告问题、参与开发、整理文稿等方式参与到 USF 的项目中。
+## Contribution
+You can participate in the USF project by reporting an issue, participating in development, and organizing documents.
 
-## 联系方式
-欢迎通过 USF-org@outlook.com 联系我们
+## Contaction
+It is welcomed to contact us via USF-org@outlook.com
