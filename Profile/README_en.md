@@ -5,7 +5,7 @@ Language: <a href="./README.md">简体中文</a>｜English
 # USF - Universal Schedule Format
 USF (Universal Schedule Format) is an efficient curriculum data format, which aims to streamline efficiently and have universal functions. At present, the project is still under development.
 
-## Supported
+## Supported (Sort by Time)
 <img src="https://skillicons.dev/icons?i=ts,py,swift,cs,cpp" />
 JSON Autocomplete｜TypeScript｜Python｜Swift｜C#｜C++
 
